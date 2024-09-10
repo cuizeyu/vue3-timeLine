@@ -10,7 +10,7 @@
 
 ## 效果展示
 
-<img src="https://github.com/cuizeyu/vue3-timeLine/blob/main/src/assets/eg.jpg" width="600" height="300"/>
+<img src="https://github.com/cuizeyu/vue3-timeLine/blob/main/src/assets/eg.png" width="600" height="300"/>
 
 ## 沟通交流
 
