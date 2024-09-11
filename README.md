@@ -1,12 +1,12 @@
 # vue3-timeLine
 
 1. 基于 vue3.x 制作的时间轴组件
-2. 在线体验：https://cuizeyu.github.io/vue3-timeLine/
+2. 在线体验：http://www.cuizeyu.cn/vue3-timeLine
 
 ## 本地运行这个项目(node18 以上)
 
 1. `npm i` 安装依赖
-2. `npm run dev` 等编译完成后本地打开页面看效果。
+2. `npm run dev` 等编译完成后本地打开页面看效果
 
 ## 效果展示
 
